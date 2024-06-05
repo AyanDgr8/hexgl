@@ -1,3 +1,9 @@
 [submodule "hexgl"]
 	path = hexgl
 	url = https://github.com/AyanDgr8/hexgl.git
+[submodule "HeGL"]
+	path = HeGL
+	url = https://github.com/AyanDgr8/hexgl.git
+[submodule "HexGL"]
+	path = HexGL
+	url = https://github.com/AyanDgr8/hexgl.git
